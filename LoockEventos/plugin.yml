@@ -1,0 +1,8 @@
+name: LoockEventos
+version: 0.0.1
+author: Monderdragon
+main: com.monderdragon.loockeventos.Main
+softdepend: [Vault]
+commands:
+  Guerra:
+   description: Saber sobre o plugin.

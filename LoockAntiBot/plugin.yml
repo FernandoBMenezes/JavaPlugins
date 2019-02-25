@@ -1,0 +1,5 @@
+name: LoockAntiBot
+version: 0.0.1
+author: Monderdragon
+main: com.redeloock.loockantibot.main.Main
+commands:
